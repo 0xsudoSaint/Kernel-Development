@@ -1,4 +1,4 @@
-ORG 0
+ORG 0 ; absolute 0 address
 BITS 16
 _start:
   jmp short main_start 
