@@ -70,4 +70,4 @@ protected_mode_entry:
   jmp $
 
 times 510-($- $$) db 0
-dw 0xAA55
+dw 0xAA55 ; boot signature at the end of loaded sector
