@@ -1,4 +1,4 @@
-Legacy x86 Kernel
+#Legacy x86 Kernel
 A simple legacy-style x86 kernel focused on demonstrating low-level system programming concepts, built from scratch using assembly and C.
 
 📜 Features Implemented
