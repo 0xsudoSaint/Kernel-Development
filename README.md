@@ -44,4 +44,5 @@ make clean
 # Run using QEMU ( you have to be in bin directory for this)
 qemu-system-x86_64 -hda os.bin
 
-#Please not the this is just a personal project to learn more about system working , errors and omissions are expected. Also the work is in progress as of now.
+# Note (Work in progress): 
+Please not the this is just a personal project to learn more about system working , errors and omissions are expected. Also the work is in progress as of now.
