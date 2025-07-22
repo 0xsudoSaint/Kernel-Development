@@ -1,0 +1,9 @@
+what we need for disk drivers
+
+starting sec 
+num of sectors
+loading mem address
+call disk drive 
+
+add-symbol-file ../build/kernelf.o 0x100000
+target remote | qemu-system-x86_64 -S -gdb stdio -hda ./os.bin
